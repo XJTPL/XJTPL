@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi and hello.
+Knows Python, some HTML/JS/CSS, some C, and *maybe* some NASM, and also [composes music](https://musescore.com/user/31450590 "See my Musescore profile")
 
 <!--
 **XJTPL/XJTPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
