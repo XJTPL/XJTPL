@@ -1,5 +1,5 @@
 ## Hi and hello.
-Knows Python, some HTML/JS/CSS, some C, and *maybe* some NASM, also [composes music](https://musescore.com/user/31450590 "See my Musescore profile"), and also created an object show called [BFWT](https://xjtpl.github.io/BFWT/).
+Knows Python, some HTML/JS/CSS, some C, and *maybe* some NASM, [composes music](https://musescore.com/user/31450590 "See my Musescore profile"), and also created an object show series called [Battle For Whatever Thing](https://xjtpl.github.io/BFWT/ "See the official website!!!").
 
 <!--
 **XJTPL/XJTPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
